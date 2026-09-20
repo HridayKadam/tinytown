@@ -1,4 +1,4 @@
-# tiny-town
+# tiny-town - BORED OF COA EXAM SO LOWK WORKING ON THIS
 
 tiny-town turns a real place into a small, soft, isometric 3D miniature and
 serves it in a browser. Give it a centre and a size; it fetches OpenStreetMap
